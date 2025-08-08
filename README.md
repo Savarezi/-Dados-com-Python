@@ -50,7 +50,7 @@ Certifique-se de ter o Python instalado.
 
 # 1. Clonar o Repositório
 
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com//Savarezi/-Dados-com-Python/tree/main
 cd seu-repositorio
 
 # 2. Instalar as Dependências
@@ -121,7 +121,7 @@ Certifique-se de ter o Python instalado.
 1. Clonar o Repositório
 Bash
 
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com//Savarezi/-Dados-com-Python/tree/main
 cd seu-repositorio
 2. Instalar as Dependências
 É altamente recomendável criar um ambiente virtual para isolar as dependências do projeto.
