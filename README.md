@@ -1,5 +1,5 @@
 # 🎲 Dashboard de Análise de Salários na Área de Dados
-# * 🎯 Visão Geral do Projeto 
+# * 🎯 Visão Geral do Projeto  - https://data-salaries-dashboard.streamlit.app/
 Este projeto é um dashboard interativo e visualmente moderno, desenvolvido em Python utilizando a biblioteca Streamlit. O objetivo é fornecer uma ferramenta completa e intuitiva para a análise de dados salariais de profissionais da área de dados ao longo dos anos.
 
 A interface, com um design refinado e responsivo, permite aos usuários explorar o conjunto de dados de maneira aprofundada. O dashboard exibe métricas-chave e gráficos dinâmicos que se atualizam em tempo real conforme os filtros são aplicados, oferecendo uma compreensão clara das tendências salariais, da distribuição de cargos e das preferências de trabalho.
