@@ -185,7 +185,7 @@ if not df_filtrado.empty:
         title='Salário Médio Anual (USD)',
         markers=True,
         labels={'usd': 'Média Salarial (USD)', 'ano': 'Ano'},
-        color_discrete_sequence=['#FFC300']
+        color_discrete_sequence=['#6A0DAD']
     )
     grafico_linha.update_layout(title_x=0.1, plot_bgcolor='rgba(0,0,0,0)', paper_bgcolor='rgba(0,0,0,0)')
     st.plotly_chart(grafico_linha, use_container_width=True)
