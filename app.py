@@ -133,6 +133,7 @@ col2.metric("Salário Mediano", f"${salario_mediano:,.0f}")
 col3.metric("Salário Máximo", f"${salario_maximo:,.0f}")
 col4.metric("Total de Registros", f"{total_registros:,}")
 col5.metric("Cargo Mais Frequente", cargo_mais_frequente)
+color_discrete_sequence=['#6A0DAD']
 
 st.markdown("---")
 
