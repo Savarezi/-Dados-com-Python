@@ -151,7 +151,7 @@ with col_graf1:
             orientation='h',
             title="Top 10 cargos por salário médio",
             labels={'usd': 'Média salarial anual (USD)', 'cargo': ''},
-            color_discrete_sequence=px.colors.qualitative.Plotly
+            color_discrete_sequence=['#6A0DAD']
         )
         grafico_cargos.update_layout(title_x=0.1, yaxis={'categoryorder':'total ascending'}, xaxis_title=None, plot_bgcolor='rgba(0,0,0,0)', paper_bgcolor='rgba(0,0,0,0)')
         st.plotly_chart(grafico_cargos, use_container_width=True)
