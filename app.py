@@ -128,7 +128,7 @@ else:
     salario_medio, salario_mediano, salario_maximo, total_registros, cargo_mais_frequente = 0, 0, 0, 0, "N/A"
 
 col1, col2, col3, col4, col5 = st.columns(5) # NOVO: 5 colunas para as métricas
-col1.metric("Salário Médio", f"${salario_medio:,.0f}"),color_discrete_sequence=['#6A0DAD']
+col1.metric("Salário Médio", f"${salario_medio:,.0f}")
 col2.metric("Salário Mediano", f"${salario_mediano:,.0f}")
 col3.metric("Salário Máximo", f"${salario_maximo:,.0f}")
 col4.metric("Total de Registros", f"{total_registros:,}")
