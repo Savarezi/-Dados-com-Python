@@ -166,7 +166,7 @@ with col_graf2:
             nbins=30,
             title="Distribuição de salários anuais",
             labels={'usd': 'Faixa salarial (USD)', 'count': ''},
-            color_discrete_sequence=['#007bff']
+            color_discrete_sequence=['#6A0DAD']
         )
         grafico_hist.update_layout(title_x=0.1, xaxis_title=None, plot_bgcolor='rgba(0,0,0,0)', paper_bgcolor='rgba(0,0,0,0)')
         st.plotly_chart(grafico_hist, use_container_width=True)
