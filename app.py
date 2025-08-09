@@ -27,7 +27,7 @@ st.markdown("""
     h1 {
         font-size: 3rem;
         font-weight: 700;
-        color: #007bff;
+        color: #6A0DAD;
         text-align: center;
         margin-bottom: 0;
     }
@@ -37,7 +37,7 @@ st.markdown("""
         color: #e5e5e5;
     }
     h3 {
-        color: #007bff;
+        color: #6A0DAD;
     }
     .stMarkdown p {
         font-size: 1.1rem;
@@ -47,7 +47,7 @@ st.markdown("""
     .css-1f9g9st.e16nr0p31 { /* metric values */
         font-size: 2rem;
         font-weight: bold;
-        color: #007bff;
+        color: #6A0DAD;
     }
     .css-1f9g9st.e16nr0p31 > div {
         color: #e5e5e5;
